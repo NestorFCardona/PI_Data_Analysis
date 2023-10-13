@@ -24,17 +24,21 @@ En los albores del siglo XX, la aviación era una novedad emocionante, pero tamb
 El análisis y la exploración de datos desempeñan un papel crucial en la obtención de información valiosa dentro del vasto conjunto de datos disponibles sobre accidentes aereos. En este contexto, es clave el uso de una valiosa fuente de datos actualizados que proporcionen información relevante para el analisis.
 
 
+
+
 ### **Rol a desarrollar**
 
 La Organización de Aviación Civil Internacional (OACI) , organismo de la Organización de las Naciones Unidas, quiere investigar en profundidad los accidentes producidos desde inicios del siglo XX. Para ello, el objetivo principal es poder obtener un análisis de datos relacionados a esto, junto a un tablero que complemente los análisis con sus visualizaciones.
 
 La Organización de Aviación Civil Internacional (OACI) dispone exclusivamente de un conjunto de datos relacionados con accidentes de aeronaves. Sin embargo, el propósito de este esfuerzo es alcanzar una mayor transparencia y coherencia en los fundamentos del estudio en curso. 
 
+
 ## **Propuesta de trabajo**
 
 `EDA` (Exploratory Data Analysis)
 
 Se realiza un análisis exploratorio de los datos en el notebook EDA_DA.ipynb estan los pasos documentados con claridad, con las conclusiones correspondientes en cada gráfico empleado y análisis de lo observado, utilizando celdas Markdown para tal fin. 
+
 
 Entre estos aspectos destacados se encuentran: *búsqueda de valores faltantes, valores atípicos/extremos u outliers y registros duplicados*. Asimismo, la utilización de gráficos coherentes según la tipología de variable que corresponda resulta esencial.
 
@@ -184,5 +188,6 @@ EDA_PIDA.ipynb
 PI_DA NFC.pbix
 
 
-#   P I _ D a t a _ A n a l y s i s  
+#   P I _ D a t a _ A n a l y s i s 
+ 
  
